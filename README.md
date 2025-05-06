@@ -164,7 +164,7 @@ Response:
 ## 🏗️ Project Structure
 
 ```
-football-nlu-api/
+FootballFluent 💬⚽-nlu-api/
 ├── .dockerignore            # Docker ignore file
 ├── .env                     # Environment variables (not in version control)
 ├── Dockerfile               # Docker configuration
